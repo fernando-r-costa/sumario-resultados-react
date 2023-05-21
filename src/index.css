@@ -34,10 +34,11 @@ code {
 .secao {
   background-color: var(--White);
   margin: 20vh auto;
-  width: 600px;
-  height: 400px;
+  width: 40vw;
+  height: 60vh;
   border-radius: 25px;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  box-sizing: border-box;
 }

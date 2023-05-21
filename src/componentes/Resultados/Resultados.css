@@ -1,0 +1,44 @@
+.resultados {
+    background-image: linear-gradient(var(--Light-slate-blue), var(--Light-royal-blue));
+    border-radius: 15px;
+    text-align: center;
+    color: var(--Light-lavender);
+    height: 100%;
+    width: 80%;
+}
+
+.resultados h2, h3 {
+    color: var(--White);
+}
+
+.resultados h1 {
+    font-size: 1.5rem;
+    margin: 2rem 0 0 0;
+}
+
+.resultados h2 {
+    font-size: 4rem;
+    margin: 2rem 0 0;
+}
+
+.resultados h3 {
+    font-size: 2rem;
+    margin: 1.6rem 0 0.6rem;
+}
+
+.resultados p {
+    margin: 0 0 4rem;
+    padding: 0 2rem 0;
+}
+
+.circulo {
+    background-image: linear-gradient(var(--Violet-blue), var(--Persian-blue));
+    border-radius: 200px;
+    width: 60%;
+    height: 40%;
+    margin: 2rem auto 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}

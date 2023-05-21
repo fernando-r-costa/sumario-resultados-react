@@ -29,8 +29,8 @@ Os usuários deverão ter a capacidade de:
 ## Meu processo
 
 - [ ] Desktop-design
-  - [ ] Componente fundo
-  - [ ] Componente resultado
+  - [x] Componente fundo
+  - [x] Componente resultado
   - [ ] Componente categorias
   - [ ] Componente botão
 - [ ] Mobile-design
