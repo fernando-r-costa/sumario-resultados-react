@@ -28,11 +28,11 @@ Os usuários deverão ter a capacidade de:
 
 ## Meu processo
 
-- [ ] Desktop-design
+- [x] Desktop-design
   - [x] Componente fundo
   - [x] Componente resultado
-  - [ ] Componente categorias
-  - [ ] Componente botão
+  - [x] Componente categorias
+  - [x] Componente botão
 - [ ] Mobile-design
 
 ## Autor

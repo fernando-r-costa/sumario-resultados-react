@@ -1,0 +1,26 @@
+.teste {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.8rem 2rem;
+    border-radius: 10px;
+}
+
+.teste img {
+    margin-left: 1rem;
+}
+
+.teste h2 {
+    font-size: 1.1rem;
+    flex-grow: 1;
+    margin-left: 1rem;
+}
+
+.teste strong {
+    color: var(--Dark-gray-blue);
+}
+
+.teste p {
+    color: var(--Light-lavender);
+    font-size: 1rem;
+    margin-right: 1rem;
+}

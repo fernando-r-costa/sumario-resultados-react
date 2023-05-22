@@ -1,0 +1,9 @@
+.sumario {
+    height: 100%;
+    width: 80%;
+}
+
+.sumario h1 {
+    color: var(--Dark-gray-blue);
+    margin: 0 0 0 2rem;
+}

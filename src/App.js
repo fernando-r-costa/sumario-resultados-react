@@ -1,4 +1,4 @@
-import Categorias from "./componentes/Categorias";
+import Sumario from "./componentes/Sumario";
 import Resultados from "./componentes/Resultados";
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <section className="secao">
                 <Resultados />
-                <Categorias />
+                <Sumario />
             </section>
         </div>
     );

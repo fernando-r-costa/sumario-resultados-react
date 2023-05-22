@@ -18,6 +18,11 @@ code {
   --Orangey-yellow: hsl(39, 100%, 56%);
   --Green-teal: hsl(166, 100%, 37%);
   --Cobalt-blue: hsl(234, 85%, 45%);
+  /* secundary */
+  --Light-red-back: hsla(0, 100%, 67%, 0.1);
+  --Orangey-yellow-back: hsla(39, 100%, 56%, 0.1);
+  --Green-teal-back: hsla(166, 100%, 37%, 0.1);
+  --Cobalt-blue-back: hsla(234, 85%, 45%, 0.1);
   /*background gradients*/
   --Light-slate-blue: hsl(252, 100%, 67%); 
   --Light-royal-blue: hsl(241, 81%, 54%);
@@ -34,8 +39,8 @@ code {
 .secao {
   background-color: var(--White);
   margin: 20vh auto;
-  width: 40vw;
-  height: 60vh;
+  width: 620px;
+  height: 450px;
   border-radius: 25px;
   display: flex;
   justify-content: space-between;
