@@ -24,7 +24,7 @@ code {
   --Green-teal-back: hsla(166, 100%, 37%, 0.1);
   --Cobalt-blue-back: hsla(234, 85%, 45%, 0.1);
   /*background gradients*/
-  --Light-slate-blue: hsl(252, 100%, 67%); 
+  --Light-slate-blue: hsl(252, 100%, 67%);
   --Light-royal-blue: hsl(241, 81%, 54%);
   /*circle gradients*/
   --Violet-blue: hsla(256, 72%, 46%, 1);
@@ -38,12 +38,21 @@ code {
 
 .secao {
   background-color: var(--White);
-  margin: 20vh auto;
-  width: 620px;
-  height: 450px;
+  margin: 15vh auto;
+  width: 45%;
   border-radius: 25px;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 720px) {
+  .secao {
+    flex-direction: column;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+  }
 }

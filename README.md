@@ -33,7 +33,7 @@ Os usuários deverão ter a capacidade de:
   - [x] Componente resultado
   - [x] Componente categorias
   - [x] Componente botão
-- [ ] Mobile-design
+- [x] Mobile-design
 
 ## Autor
 

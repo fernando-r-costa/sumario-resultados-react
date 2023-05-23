@@ -1,9 +1,19 @@
 .sumario {
-    height: 100%;
-    width: 80%;
+    width: 100%;
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
 }
 
 .sumario h1 {
     color: var(--Dark-gray-blue);
-    margin: 0 0 0 2rem;
+    margin: 0 0 1rem 2rem;
+}
+
+@media screen and (max-width: 720px) {
+    .sumario h1 {
+        margin: 2rem 0 2rem 2rem;
+    }
+
 }
