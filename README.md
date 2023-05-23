@@ -20,11 +20,15 @@ Os usuários deverão ter a capacidade de:
 
 ### Screenshot
 
-![](./public/design/desktop-design.jpg)
+![Smartphone](./public/design/screenshot-1684865302201.jpeg)
+
+![Tablet](./public/design/screenshot-1684865311054.jpeg)
+
+![Desktop](./public/design/screenshot-1684865316435.jpeg)
 
 ### Links
 
-<!-- - Site URL: [Súmario de resultados](https://e-commerce-page-lovat.vercel.app/) -->
+- Site URL: [Súmario de resultados](https://sumario-resultados-react.vercel.app/)
 
 ## Meu processo
 

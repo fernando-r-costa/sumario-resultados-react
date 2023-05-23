@@ -11,7 +11,7 @@ const sumarioNotas = [
       corBack: 'var(--Light-red-back)'
     },
     {
-      texto: 'Memoria',
+      texto: 'Memória',
       nota: 92,
       imagem: './assets/images/icon-memory.svg',
       corTexto: 'var(--Orangey-yellow)',
